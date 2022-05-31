@@ -1,0 +1,14 @@
+tkinter 
+time
+sqlite3
+random
+tempfile
+win32api
+win32print
+pyqrcode
+os
+png
+qrcode
+pyqrcode
+tkinter
+PIL 
